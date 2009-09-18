@@ -1,0 +1,9 @@
+test:
+  service: campaign_monitor
+  default_options:
+    campaign_id: CAMPAIGN_ID
+    api_key: API_KEY
+    client_id: CLIENT_ID
+  lists:
+    one:
+      id: ONE

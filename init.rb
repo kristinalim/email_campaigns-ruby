@@ -1,0 +1,1 @@
+require 'mailing_lists'
